@@ -1,0 +1,42 @@
+body{
+	background-color: #fff;
+}
+/*
+#login-box{
+	width: 80%;
+	height: 670px;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	padding: 20px;
+	padding-top: 20%;
+	background-color: #cfcfcf;
+}*/
+
+#login-box{
+	width: 80%;
+	min-height: 100vh;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	padding: 20px;
+	padding-top: 20%;
+	/*background-color: #cfcfcf;*/
+	background-color: #232323;
+}
+
+#login-background{
+	width: 100%;
+    height: 100%;
+	background-color: #fff;
+	position: fixed;
+}
+
+.header-login{
+	text-align: center;
+	font-weight: bold;
+	/*color: #2b669a;*/ /*biru*/
+	color : gold;
+}
